@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@lexical/markdown": "^0.7.5",
+    "@lexical/react": "^0.7.5",
+    "lexical": "^0.7.5"
+  }
+}
